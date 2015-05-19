@@ -1,0 +1,15 @@
+{
+  "port": 3000,
+  "lob_api_key": "XXXXX",
+  "mandrill_api_key": "XXXX",
+  "fromAddress": {
+    "name": "Lob",
+    "email": "joe@example.com",
+    "address_line1": "185 Berry",
+    "address_line2": "Suite 1851",
+    "address_city": "San Francisco",
+    "address_state": "CA",
+    "address_zip": "94117",
+    "address_country": "US"
+  }
+}

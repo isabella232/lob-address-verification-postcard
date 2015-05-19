@@ -1,0 +1,39 @@
+{
+  "name": "lob-stripe-app",
+  "version": "1.0.0",
+  "description": "Simple App with Lob and Stripe",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "jshint --reporter node_modules/jshint-stylish/stylish.js src/ && jscs src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pon/lob-stripe-app.git"
+  },
+  "keywords": [
+    "Lob",
+    "Stripe",
+    "Hapi"
+  ],
+  "author": "Peter Nagel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pon/lob-stripe-app/issues"
+  },
+  "homepage": "https://github.com/pon/lob-stripe-app",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "handlebars": "^3.0.1",
+    "hapi": "^8.4.0",
+    "hapi-auth-cookie": "^2.0.0",
+    "lob": "^3.3.0",
+    "mandrill-api": "^1.0.45",
+    "randomstring": "^1.0.5"
+  },
+  "devDependencies": {
+    "jshint-stylish": "^1.0.1",
+    "nodemon": "^1.3.7"
+  }
+}
