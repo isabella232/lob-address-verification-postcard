@@ -14,19 +14,20 @@ https://www.mandrill.com/signup/
 
 
 ## Install Packages Globally
-```javascript
+```
 npm i nodemon -g
 ```
 
 ## Install Project Dependancies
 cd into your project directory and run:
 
-```javascript
+```
 npm i
 ```
 
 ## Start Server
-```javascript
+```
 nodemon
 ```
+
 Your project should be running at http://localhost:3000
