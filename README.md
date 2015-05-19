@@ -19,7 +19,7 @@ npm i nodemon -g
 ```
 
 ## Install Project Dependancies
-cd into your project directory and run:
+`cd` into your project directory and run:
 
 ```
 npm i
