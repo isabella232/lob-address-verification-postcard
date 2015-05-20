@@ -1,7 +1,7 @@
 {
-  "name": "lob-stripe-app",
+  "name": "lob-postcard-app",
   "version": "1.0.0",
-  "description": "Simple App with Lob and Stripe",
+  "description": "Verify User Addresses via Postcard with Lob + Hapi + Mandrill",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
@@ -19,10 +19,7 @@
   ],
   "author": "Peter Nagel",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pon/lob-stripe-app/issues"
-  },
-  "homepage": "https://github.com/pon/lob-stripe-app",
+  "homepage": "https://github.com/lob/lob-address-verification-postcard",
   "dependencies": {
     "bluebird": "^2.9.25",
     "handlebars": "^3.0.1",
