@@ -17,7 +17,7 @@
     "Stripe",
     "Hapi"
   ],
-  "author": "Peter Nagel",
+  "author": "Russell Taylor",
   "license": "MIT",
   "homepage": "https://github.com/lob/lob-address-verification-postcard",
   "dependencies": {
