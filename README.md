@@ -1,3 +1,5 @@
+# NOTE: This example was created on an outdated version of the Lob API. Please see the latest [Lob documentation](https://lob.com/docs)  for the most up-to-date information on integrating with Lob.
+
 # Lob Address Verification Postcard Example
 Node.js application using Lob, Hapi, and Mandrill to create a user registration form that will send an address validation postcard to a user when the register.
 
