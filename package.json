@@ -22,7 +22,7 @@
   "homepage": "https://github.com/lob/lob-address-verification-postcard",
   "dependencies": {
     "bluebird": "^2.9.25",
-    "handlebars": "^3.0.1",
+    "handlebars": "^4.4.5",
     "hapi": "^8.4.0",
     "hapi-auth-cookie": "^2.0.0",
     "lob": "^3.3.0",
