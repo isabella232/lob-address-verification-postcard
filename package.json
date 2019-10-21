@@ -23,7 +23,7 @@
   "dependencies": {
     "bluebird": "^2.9.25",
     "handlebars": "^4.4.5",
-    "hapi": "^8.4.0",
+    "hapi": "^18.1.0",
     "hapi-auth-cookie": "^2.0.0",
     "lob": "^3.3.0",
     "mandrill-api": "^1.0.45",
